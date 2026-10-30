@@ -6,16 +6,16 @@ Built by [Bailey Wilshire](https://www.linkedin.com/in/bailey-wilshire/) at Hand
 
 ## How to use it
 
-1. Copy this link:
+1. Copy this line:
 
-   `https://raw.githubusercontent.com/handlagency/accountants-linkedin-brain/main/accountants-linkedin-brain.md`
+   `Read https://raw.githubusercontent.com/handlagency/accountants-linkedin-brain/main/accountants-linkedin-brain.md and run it with me.`
 
 2. Open a new chat in any AI that can read links: ChatGPT, Claude, Gemini or Perplexity.
-3. Paste the link and type: **Read this and run it with me.**
+3. Paste it and press send.
 
 That's it. The AI takes it from there.
 
-If your AI can't open links, download [accountants-linkedin-brain.md](accountants-linkedin-brain.md), attach it to a new chat, and type the same thing.
+If your AI can't open links, download [accountants-linkedin-brain.md](accountants-linkedin-brain.md), attach it to a new chat, and type: **Run this with me.**
 
 ## What you get
 
@@ -32,7 +32,7 @@ It can also review posts you've already written, turn a meeting transcript into 
 ## Tips
 
 - **Talk, don't type.** Voice notes and dictation give the AI your real stories and opinions, which make the best posts.
-- **Save each stage.** Chats don't remember each other. When the AI gives you a document after each stage, save it. Next time, paste it into a new chat with the link above to carry on. If you use a Claude or ChatGPT Project, add the documents to the project's files instead.
+- **Save each stage.** Chats don't remember each other. When the AI gives you a document after each stage, save it. Next time, paste it into a new chat with the line above to carry on. If you use a Claude or ChatGPT Project, add the documents to the project's files instead.
 
 ## Keep client data out
 
