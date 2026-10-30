@@ -45,7 +45,3 @@ Take the free LinkedIn assessment for accountants: https://linkedin-handlagency.
 ## Disclaimer
 
 This is general guidance on LinkedIn content. It isn't legal, regulatory or data protection advice. You're responsible for what you share with an AI tool and what you post, and should follow your firm's policies and your professional body's rules.
-
-## Credit
-
-Structure inspired by [Hat Tip LinkedIn OS](https://github.com/ChristianDiBratto25/hattip-linkedin-os) by Christian Di Bratto (MIT licence).
